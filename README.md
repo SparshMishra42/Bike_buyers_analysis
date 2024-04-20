@@ -1,4 +1,4 @@
-# Bike_buyers_analysis (It was a Guided Project)
+# Bike_buyers_analysis (Guided Project by Alex the Analyst)
 Following includes the documentation of analysis of the "Bike buyers dataset" which was performed using MS. Excel.
 
 ## DATA CLEANING AND PREPARATION
