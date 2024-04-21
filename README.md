@@ -36,4 +36,19 @@ Following includes the documentation of analysis of the "Bike buyers dataset" wh
 
 ## INSIGHTS
 
+   Here are some of the insights I've gained from the analysis:
+
+   1. People whose income is bit more than average income buys a bike.
+   
+   2. Generally, people from age 31-54 purchase a bike.
+   
+   3. Income of men is more than women.
+   
+   4. People who are single buying bikes.
+
+  Here is the image of the final dashboard created:
+
+  ![Bike Sales final dashboard](https://github.com/SparshMishra42/Bike_buyers_analysis/assets/143194226/94e6189e-785c-4c1d-aed3-2b3bda19c287)
+
+  
 
